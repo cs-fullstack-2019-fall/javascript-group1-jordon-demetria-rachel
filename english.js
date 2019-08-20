@@ -11,7 +11,7 @@ if (userInput==="1")
     let userInput2= prompt("Enter English word");
     newEnglishArray.push(userInput2);
 }
-console.log(newEnglishArray);
+console.log(newEnglishArray[index]);
 
 if(userInput==="2")
 {
@@ -27,7 +27,3 @@ if(userInput==="4")
 
 }
 else if (userInput==="q");
-
-newEnglishArray=[];
-let userInput2= prompt("Enter English word");
-newEnglishArray.push(userInput2);
