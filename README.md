@@ -1,5 +1,10 @@
 # javascript-group1
 
+Score : 4 points
+Nice job!
+Make sure your prompts have enough info, for example your prompt to enter a new translation needed q to quit but the prompt doesn't tell the user that.
+You did not use the individual files for each member of your team The main file was only meant to call function.
+
 Create an English to Spanish dictionary. Provide the options below:
 ```
 Press 1 to list all English to Spanish translations, press 2 to list all Spanish to English translations, press 3 to enter a new English translation, press 4 to enter a new Spanish translation, and press 5 or 'q' to quit.
